@@ -1,0 +1,10 @@
+# my movie App react native
+![](./screen/1.jpeg)
+![](./screen/2.jpeg)
+![](./screen/3.jpeg)
+![](./screen/4.jpeg)
+![](./screen/5.jpeg)
+![](./screen/6.jpeg)
+![](./screen/7.jpeg)
+![](./screen/8.jpeg)
+![](./screen/9.jpeg)
